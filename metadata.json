@@ -1,0 +1,8 @@
+{
+  "name": "Mindbody All Region SMB Lead Engine",
+  "description": "Prospecting, competitor discovery, lead deduplication, and outreach generator for Mindbody SMB Account Executives",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
